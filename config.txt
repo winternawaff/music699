@@ -1,0 +1,6 @@
+token=NjIyNzc3NjAwNTkwNDc5Mzcy.XbZ8Fw.5MCtSyIfgEYbdj5pWCCbqvoQsdw
+owner=470673278709530634
+prefix=<@622777600590479372>
+stayinchannel=true
+game=69%
+status=online
